@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{FCuQ:function(n,t,e){"use strict";e.r(t);var u=e("q1tI"),l=e.n(u).a.createElement;t.default=function(){return l("div",null,l("h1",null,"Hello Test!"))}},"zl3/":function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/test",function(){var n=e("FCuQ");return{page:n.default||n}}])}},[["zl3/",1,0]]]);
