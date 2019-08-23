@@ -1,9 +1,9 @@
 import Link from "next/link";
 const Index = () => (
-  <Section>
+  <div>
     <h1>Hello Sakthi!</h1>
     <Link href="/test">Test</Link>
-  </Section>
+  </div>
 );
 
 export default Index;

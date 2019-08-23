@@ -1,7 +1,7 @@
 const Test = () => (
-  <Section>
+  <div>
     <h1>Hello Test!</h1>
-  </Section>
+  </div>
 );
 
 export default Test;
