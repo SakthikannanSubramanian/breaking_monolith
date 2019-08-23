@@ -10438,7 +10438,7 @@ var Index = function Index() {
       lineNumber: 5
     },
     __self: this
-  }, "Test"));
+  }, "Sakthi"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
