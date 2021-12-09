@@ -14,7 +14,7 @@
   "author": "Sakthikannan Subramanian",
   "license": "MIT",
   "dependencies": {
-    "next": "^9.0.4",
+    "next": "^11.1.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
